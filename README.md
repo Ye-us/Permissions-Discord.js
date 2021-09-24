@@ -1,1 +1,31 @@
-# permissions
+#### Permissions Discord.js.
+
+```javascript
+{ CREATE_INSTANT_INVITE: false,
+  KICK_MEMBERS: false,
+  BAN_MEMBERS: false,
+  ADMINISTRATOR: false,
+  MANAGE_CHANNELS: false,
+  MANAGE_GUILD: false,
+  ADD_REACTIONS: true,
+  READ_MESSAGES: true,
+  SEND_MESSAGES: true,
+  SEND_TTS_MESSAGES: false,
+  MANAGE_MESSAGES: false,
+  EMBED_LINKS: false,
+  ATTACH_FILES: false,
+  READ_MESSAGE_HISTORY: true,
+  MENTION_EVERYONE: false,
+  EXTERNAL_EMOJIS: true,
+  CONNECT: false,
+  SPEAK: true,
+  MUTE_MEMBERS: false,
+  DEAFEN_MEMBERS: false,
+  MOVE_MEMBERS: false,
+  USE_VAD: true,
+  CHANGE_NICKNAME: true,
+  MANAGE_NICKNAMES: false,
+  MANAGE_ROLES_OR_PERMISSIONS: false,
+  MANAGE_WEBHOOKS: false,
+  MANAGE_EMOJIS: false }
+```
