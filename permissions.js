@@ -1,6 +1,3 @@
-#### FunctionClear
-
-```javascript
 { CREATE_INSTANT_INVITE: false,
   KICK_MEMBERS: false,
   BAN_MEMBERS: false,
@@ -28,4 +25,3 @@
   MANAGE_ROLES_OR_PERMISSIONS: false,
   MANAGE_WEBHOOKS: false,
   MANAGE_EMOJIS: false }
-```
